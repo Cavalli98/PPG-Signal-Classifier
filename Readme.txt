@@ -1,0 +1,3 @@
+The file 'SVandN_Classifier' contains the organized code for preparing the dataset and classifying S and V.
+Additionally, the final classifier is included, which first classifies N-notN and then further classifies S and V within the notN category.
+The 'N_Classifier' file contains the code for preparing the dataset and classifying N and notN. The data preparation part is more or less the same in both files, with some parameters adjusted to fit the specific task.
